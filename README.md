@@ -1,1 +1,2 @@
-# plateformer-pro3600
+# PRO3600 - Projet 2
+
